@@ -1,2 +1,2 @@
-# learning-_python
+# learning_python
 Python in exercises
