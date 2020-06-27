@@ -1,0 +1,6 @@
+print (type(2.3))
+print (type(2))
+print (type(2 + 4j))
+print (type("2"))
+print (type([]))
+print (type({}))
